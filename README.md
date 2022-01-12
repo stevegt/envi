@@ -9,7 +9,7 @@ Useful for e.g. feature flags managed in the local environment.
 
 (Also see env_test.go.)
 
-```
+```go
 package main
 
 import (
