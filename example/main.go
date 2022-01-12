@@ -1,15 +1,3 @@
-# enviance
-
-A simple library for reading environment variables: converts to Go
-types, provides default values.  
-
-Useful for e.g. feature flags managed in the local environment. 
-
-## Example
-
-(Also see env_test.go.)
-
-```
 package main
 
 import (
@@ -27,4 +15,3 @@ func main() {
 	fmt.Println(env.Float32("somefloat", 2.34))
 	fmt.Println(env.Float64("somefloat", 2.34))
 }
-```
