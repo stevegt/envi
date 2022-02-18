@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"os"
 
-	env "github.com/stevegt/enviance"
+	env "github.com/stevegt/envi"
 )
 
 func main() {
