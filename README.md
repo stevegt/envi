@@ -1,4 +1,4 @@
-# enviance
+# envi
 
 A simple library for reading environment variables: converts to Go
 types, provides default values.  
