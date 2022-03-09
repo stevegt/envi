@@ -1,4 +1,4 @@
-module github.com/stevegt/enviance
+module github.com/stevegt/envi
 
 go 1.16
 
